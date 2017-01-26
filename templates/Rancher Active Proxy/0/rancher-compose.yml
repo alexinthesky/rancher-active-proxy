@@ -25,3 +25,9 @@
       label: "Set to true to enable debug"
       default: "False"
       type: string
+    - variable: sticky_host
+      description: "Docker host to install to"
+      label: "Sticky host for containers"l
+      type: "string"
+      required: true
+      default: "sandbox6"
