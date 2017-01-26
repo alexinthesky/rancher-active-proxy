@@ -27,7 +27,7 @@
       type: string
     - variable: sticky_host
       description: "Docker host to install to"
-      label: "Sticky host for containers"l
+      label: "Sticky host for containers"
       type: "string"
       required: true
       default: "sandbox6"
